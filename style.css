@@ -87,6 +87,7 @@ body{
     background-position: -75rem -85rem, 55rem 40rem;
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
+    color: hsl(229, 23%, 23%);
 }
 
 /* Main container */
